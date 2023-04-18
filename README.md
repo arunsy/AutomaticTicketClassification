@@ -17,7 +17,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Evaluated this dataset on 3 supervised model, i.e, Logistic Regression, Decision Tree & Random Forest. Got a better optimistic prediction result of 96% in Random forest model.
+- Evaluated this data on all 3 models i.e. Logistic Regression, Decision Tree and Random Forest and analyased for various precision, recall, F1 score and ROC curve meterics.
+- Got an optimistic prediction result of 91% and 99% respectively in weighted average F1 score and ROC curve for logistic regression. 
+- Logistic regression gives better result over other models for this data.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
